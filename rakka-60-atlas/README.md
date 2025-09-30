@@ -1,5 +1,26 @@
 # RAKKA 60 ATLAS Design Files
 
+## Plate Drawings
+
+- **plate_pcb_mount_stab_all_layout_compatiable.dxf**
+
+  Drawings of plates that compatible with PCB-mount stabilizers.
+
+  All layout options supported.
+
+  In addition to the screw holes corresponding to the GH60, there are also screw holes for the standoffs used to secure the plate and the PCB.
+
+- **plate_plate_mount_stab_625_space.dxf**
+- **plate_plate_mount_stab_625_split_space.dxf**
+- **plate_plate_mount_stab_700_space.dxf**
+- **plate_plate_mount_stab_700_split_space.dxf**
+
+  Drawings of plates that compatible with plate-mount stabilizers.
+
+  All of them have the layout options fixed.
+
+  In addition to the screw holes corresponding to the GH60, there are also screw holes for the standoffs used to secure the plate and the PCB. For 6.25u and 7.00u spacebars, there are also openings for the light guide posts of the spacebar LEDs. Please refer to the actual product.
+
 ## 3D Models
 
 > **Notes:**
