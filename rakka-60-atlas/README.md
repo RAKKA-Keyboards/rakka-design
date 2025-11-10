@@ -21,6 +21,8 @@
 
   In addition to the screw holes corresponding to the GH60, there are also screw holes for the standoffs used to secure the plate and the PCB. For 6.25u and 7.00u spacebars, there are also openings for the light guide posts of the spacebar LEDs. Please refer to the actual product.
 
+  Note that the final shipped plate-mount stabilizer plate for 7U split space uses 3U wire, so the drawing is updated.
+  
 ## 3D Models
 
 > **Notes:**
